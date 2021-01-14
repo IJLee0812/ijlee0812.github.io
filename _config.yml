@@ -19,7 +19,7 @@ locale                   : "ko"
 title                    : "IJLee's Tech Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Lullaby"
+name                     : "(Generated)"
 description              : "Only for Portfolio"
 url                      : "https://ijlee0812.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
