@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko"
-title                    : "IJLee's Tech Blog"
+title                    : "Tech blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "IJLee"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Ikjoon Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "SSU CSE"
+  bio              : "Computer Science Engineering"
   location         : "Seoul, Korea"
   email            : "leeij0812@gmail.com"
   links:
