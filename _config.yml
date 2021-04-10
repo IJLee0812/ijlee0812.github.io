@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko"
-title                    : "Tech blog"
+title                    : "study lullaby"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "IJLee"
-description              : "Only for Portfolio"
+description              : "for study"
 url                      : "https://ijlee0812.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ijlee0812/ijlee0812.github.io"
