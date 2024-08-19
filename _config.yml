@@ -16,10 +16,10 @@ timezone: Asia/Seoul
 
 title: IJ's Archive # the main title
 
-tagline: Ikjoon Lee, Interested in Machine Learning and Finance, especially an Algorithmic Trading. # it will display as the sub-title
+tagline: I'm Interested in AI and Finance, especially an Algorithmic Trading. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Archive for IJ Lee
+  Ikjoon Lee's Blog
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
