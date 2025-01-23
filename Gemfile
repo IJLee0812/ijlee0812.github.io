@@ -9,3 +9,5 @@ group :test do
 end
 
 gem 'jekyll-target-blank'
+
+gem 'csv'
